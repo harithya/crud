@@ -1,0 +1,10 @@
+C:\Users\Harlequin\Documents\Kuliah\Pemograman Visual\Curd\Curd\bin\Release\Curd.exe.config
+C:\Users\Harlequin\Documents\Kuliah\Pemograman Visual\Curd\Curd\bin\Release\Curd.exe
+C:\Users\Harlequin\Documents\Kuliah\Pemograman Visual\Curd\Curd\bin\Release\Curd.pdb
+C:\Users\Harlequin\Documents\Kuliah\Pemograman Visual\Curd\Curd\bin\Release\Curd.xml
+C:\Users\Harlequin\Documents\Kuliah\Pemograman Visual\Curd\Curd\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Harlequin\Documents\Kuliah\Pemograman Visual\Curd\Curd\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Harlequin\Documents\Kuliah\Pemograman Visual\Curd\Curd\obj\x86\Release\Curd.vbproj.GenerateResource.Cache
+C:\Users\Harlequin\Documents\Kuliah\Pemograman Visual\Curd\Curd\obj\x86\Release\Curd.exe
+C:\Users\Harlequin\Documents\Kuliah\Pemograman Visual\Curd\Curd\obj\x86\Release\Curd.xml
+C:\Users\Harlequin\Documents\Kuliah\Pemograman Visual\Curd\Curd\obj\x86\Release\Curd.pdb
